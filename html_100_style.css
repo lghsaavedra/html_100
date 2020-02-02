@@ -1,24 +1,34 @@
 h1{
-  font: 15px Georgia bold;
+  font: 30px Georgia bold;
   background-color: black;
   color: white;
   float: left;
+  overflow: auto;
+  padding: 10px;
 }
 
 h2{
-  font: 12px arial;
+  font: 15px arial;
   border: 2px solid coral;
+  float: left;
+  white-space: pre-line;
+  margin: 3px;
 }
 
 #personal_tag{
   font: bold;
-  background-color: blue;
+  background-color: coral;
   color: white;
+  float:left;
+  padding: 5px;
+  margin: 5px;
 }
 
 #personal_info{
-  font: underline;
+  /*font: underline 2px solid black;*/
   color: blue;
+  padding: 5px;
+  margin: 5px;
 }
 
 personal_highlight{
