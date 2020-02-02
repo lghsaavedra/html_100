@@ -1,3 +1,10 @@
+h1{
+  font: 15px Georgia bold;
+  background-color: black;
+  color: white;
+  float: left;
+}
+
 h2{
   font: 12px arial;
   border: 2px solid coral;
@@ -12,4 +19,9 @@ h2{
 #personal_info{
   font: underline;
   color: blue;
+}
+
+personal_highlight{
+  font-style: italic;
+  color: green;
 }
