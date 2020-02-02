@@ -1,0 +1,15 @@
+h2{
+  font: 12px arial;
+  border: 2px solid coral;
+}
+
+#personal_tag{
+  font: bold;
+  background-color: blue;
+  color: white;
+}
+
+#personal_info{
+  font: underline;
+  color: blue;
+}
